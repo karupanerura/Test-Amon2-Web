@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/karupanerura/Test-Amon2-Web.svg?branch=master)](https://travis-ci.org/karupanerura/Test-Amon2-Web) [![Coverage Status](https://img.shields.io/coveralls/karupanerura/Test-Amon2-Web/master.svg)](https://coveralls.io/r/karupanerura/Test-Amon2-Web?branch=master)
 # NAME
 
 Test::Amon2::Web - It's new $module
