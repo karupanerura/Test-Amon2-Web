@@ -1,0 +1,6 @@
+name = "Test-Amon2-Web"
+# badges = ["travis"]
+authority="cpan:KARUPA"
+
+module_maker="ModuleBuildTiny"
+
